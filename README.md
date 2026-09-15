@@ -99,14 +99,4 @@
 
 ---
 
-## 🚀 Highlighted Work
-
-| Project | Impact |
-|---|---|
-| **MongoDB Sharding** | Sharded cluster architecture enabling **10x** data growth with stable query performance |
-| **Docker → Amazon ECS Automation** | Modular Terraform for image builds + ECS deploys with **canary progressive delivery** |
-| **VPN Consolidation** | Merged 3 VPN servers into one load-balanced platform, improving security & efficiency |
-
----
-
 <p align="center"><i>Building scalable systems that are easy to operate and hard to break.</i></p>
