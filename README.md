@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Abu Sayem Khan 👋</h1>
 <h3 align="center">DevOps Engineer · CNCF Kubestronaut ☸️ · Cloud-Native Automation</h3>
-<p align="center"><i>I help teams ship faster with Kubernetes, Infrastructure as Code, and cost-optimized cloud.</i></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2BBC8A&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%40+WPP+Production+Bangladesh;CNCF+Kubestronaut+(all+5+K8s+exams);AWS+Certified+Solutions+Architect;CI%2FCD+%7C+IaC+%7C+GitOps+%7C+Progressive+Delivery" alt="Typing SVG" />
