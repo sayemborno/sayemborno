@@ -2,7 +2,7 @@
 <h3 align="center">DevOps Engineer · CNCF Kubestronaut ☸️ · Cloud-Native Automation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2BBC8A&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%40+WPP+Production+BD;CNCF+Kubestronaut+(all+5+K8s+exams);AWS+Certified+Solutions+Architect;CI%2FCD+%7C+IaC+%7C+GitOps+%7C+Progressive+Delivery" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2BBC8A&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%40+WPP+Production+Bangladesh;CNCF+Kubestronaut+(all+5+K8s+exams);AWS+Certified+Solutions+Architect;CI%2FCD+%7C+IaC+%7C+GitOps+%7C+Progressive+Delivery" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 DevOps Engineer at **WPP Production BD**, building scalable AWS infrastructure with **ECS, EKS, Terraform & Ansible**.
+- 🔭 DevOps Engineer at **WPP Production Bangladesh**, building scalable AWS infrastructure with **ECS, EKS, Terraform & Ansible**.
 - ⚡ Cut deployment time by **87%** (2 hrs → 15 min), reduced cloud cost by **40–50%**, and achieved **99.9% data reliability**.
 - 🛠️ I live in **CI/CD pipelines, Infrastructure as Code, GitOps, and progressive/canary delivery**.
 - 🎯 Philosophy: *Build scalable systems that are easy to operate and hard to break.*
