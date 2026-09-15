@@ -18,15 +18,15 @@
 
 <table>
   <tr>
-    <td align="center" width="140"><b>KCNA</b><br/>Cloud Native Associate</td>
-    <td align="center" width="140"><b>KCSA</b><br/>Security Associate</td>
-    <td align="center" width="140"><b>CKA</b><br/>Administrator</td>
-    <td align="center" width="140"><b>CKAD</b><br/>App Developer</td>
-    <td align="center" width="140"><b>CKS</b><br/>Security Specialist</td>
+    <td align="center" width="160"><b>KCNA</b><br/>Kubernetes and Cloud Native Associate</td>
+    <td align="center" width="160"><b>KCSA</b><br/>Kubernetes and Cloud Native Security Associate</td>
+    <td align="center" width="160"><b>CKA</b><br/>Certified Kubernetes Administrator</td>
+    <td align="center" width="160"><b>CKAD</b><br/>Certified Kubernetes Application Developer</td>
+    <td align="center" width="160"><b>CKS</b><br/>Certified Kubernetes Security Specialist</td>
   </tr>
 </table>
 
-> 🚀 One of the few engineers to hold **all five CNCF Kubernetes certifications**, earning the **Kubestronaut** distinction — plus **AWS Certified Solutions Architect – Associate** and **OCI Foundations Associate**.
+> 🚀 One of the few engineers to hold **all five CNCF Kubernetes certifications**, earning the **Kubestronaut** distinction.
 
 ---
 
