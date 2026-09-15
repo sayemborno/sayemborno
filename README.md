@@ -35,7 +35,6 @@
 - 🔭 DevOps Engineer at **WPP Production BD**, building scalable AWS infrastructure with **ECS, EKS, Terraform & Ansible**.
 - ⚡ Cut deployment time by **87%** (2 hrs → 15 min), reduced cloud cost by **40–50%**, and achieved **99.9% data reliability**.
 - 🛠️ I live in **CI/CD pipelines, Infrastructure as Code, GitOps, and progressive/canary delivery**.
-- 🤖 Heavy user of **GitHub Copilot & Claude** to accelerate automation, debugging, and documentation.
 - 🎯 Philosophy: *Build scalable systems that are easy to operate and hard to break.*
 
 ---
