@@ -93,6 +93,10 @@
 - 🔴 **Oracle Cloud Infrastructure Certified Foundations Associate**
 - 🐧 **Introduction to Kubernetes (LFS158)** — The Linux Foundation
 
+<p align="left">
+  <a href="https://www.credly.com/users/abu-khan.79767624/badges"><img src="https://img.shields.io/badge/Credly-View_My_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" /></a>
+</p>
+
 ---
 
 ## 🚀 Highlighted Work
