@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:borno009988@gmail.com"><img src="https://img.shields.io/badge/Email-borno009988%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/abu-sayem-khan"><img src="https://img.shields.io/badge/LinkedIn-Abu_Sayem_Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abu-sayem-khan-2a2b05157/"><img src="https://img.shields.io/badge/LinkedIn-Abu_Sayem_Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Dhaka,_Bangladesh-2BBC8A?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=sayemborno&style=for-the-badge&color=2bbc8a&label=Profile+Views" />
 </p>
@@ -78,24 +78,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**Operating Systems**
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sayemborno&show_icons=true&count_private=true&hide_border=true&title_color=2bbc8a&icon_color=2bbc8a&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayemborno&layout=compact&hide_border=true&title_color=2bbc8a&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sayemborno&hide_border=true&ring=2bbc8a&fire=2bbc8a&currStreakLabel=2bbc8a&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sayemborno&theme=onedark&no-frame=true&column=7&margin-w=8" />
-</p>
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 ---
 
